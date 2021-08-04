@@ -22,7 +22,7 @@
     "url": "https://github.com/MaySarvadhi/react-custom-countdown.git"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/react-costum-countdown"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
