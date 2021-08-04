@@ -11,7 +11,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaySarvadhi/react-custom-countdown.git"
+    "url": "https://github.com/MaySarvadhi/react-custom-countdown.git"
 },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
