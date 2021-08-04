@@ -26,5 +26,5 @@ return(
       timeFormat={DATE_FORMAT}
   />
 )
-}```
+}
 
