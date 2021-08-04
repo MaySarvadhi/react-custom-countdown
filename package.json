@@ -1,7 +1,18 @@
 {
   "name": "react-custom-countdown",
+  "description": "count down with smooth animation",
+  "license": "MIT",
+  "author": "Mayur Solanki <mayur.solanki@iblinfotech.com>",
+  "keywords": ["react-countdown", "countdown", "animation","custom-countdown"],
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaySarvadhi/react-custom-countdown.git"
+},
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.11.4",

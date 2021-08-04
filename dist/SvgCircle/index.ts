@@ -1,0 +1,1 @@
+import { SvgCircle } from './SvgCircle';

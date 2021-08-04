@@ -1,0 +1,27 @@
+.svg {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+.countdown-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  align-items: center;
+}
+.svg-circle-bg {
+  fill: none;
+}
+
+.svg-circle {
+  fill: none;
+}
+.svg-circle-text {
+  font-size: 2rem;
+  text-anchor: middle;
+  color: rgb(163, 48, 48);
+  font-weight: bold;
+}

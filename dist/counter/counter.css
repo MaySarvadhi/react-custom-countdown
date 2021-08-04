@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+
+
+body {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+} 
+
+h1 {
+  font-size: 75px;
+  margin: 10px;
+  font-family: "Lobster", sans-serif;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.fa-stack {
+  font-size: 50px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+.fa-stack-1x {
+  text-shadow: none;
+  color: var(--color-fun);
+}
+
+.countdown-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: var(--bg-panel);
+  border-radius: 10px;
+  box-shadow: 4px 4px 12px 2px rgba(black, 0.3);
+  padding: 40px 40px 30px;
+}
+
+.countdown-item {
+  color: var(--color-text);
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 30px;
+  margin: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+.countdown-item span {
+  color: "red";
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.countdown-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+.svg {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+.svg-circle-bg {
+  fill: none;
+}
+
+.svg-circle {
+  fill: none;
+}
+.svg-circle-text {
+  font-size: 2rem;
+  text-anchor: middle;
+  fill: #fff;
+  font-weight: bold;
+}

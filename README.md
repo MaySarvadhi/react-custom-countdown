@@ -1,12 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with React Custom Countdown
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A customizable countdown component for React.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+You can install the module via npm or yarn:
 
-### `yarn start`
+### 'npm install react-custom-countdown --save'
+## 'yarn add react-custom-countdown'
+
+## How to Use?
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
