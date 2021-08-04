@@ -19,12 +19,13 @@ const DATE_FORMAT = "MM DD YYYY, h:mm a"; //Date must be same as Date format ;
 
 you can achieve same date which one require in this component by this formula => moment(new Date()).format(DATE_FORMAT);
 
-```const App = () => {
-return(
-<Countdown
+```
+const App = () => {
+  return(
+    <Countdown
       timeTillDate={date}
       timeFormat={DATE_FORMAT}
-  />
-)
+    />
+  )
 }
 
