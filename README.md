@@ -21,8 +21,6 @@ you can achieve same date which one require in this component by this formula =>
 
 const App = () => {
 return(
-<>
 <Countdown timeTillDate={date} timeFormat={DATE_FORMAT} />
-</>
 )
 }
