@@ -6,8 +6,8 @@ A customizable countdown component for React.
 
 You can install the module via npm or yarn:
 
-### 'npm install react-custom-countdown --save'
-## 'yarn add react-custom-countdown'
+### npm install react-custom-countdown --save
+## yarn add react-custom-countdown
 
 ## How to Use?
 
